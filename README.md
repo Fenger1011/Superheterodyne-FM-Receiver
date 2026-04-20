@@ -1,3 +1,6 @@
 # Superheterodyne FM Receiver
 
-## Block Diagram
+## Block Diagram of superheterodyne receiver
+![Block Diagram](data/images/superhet_blockdiagram.png)
+
+
