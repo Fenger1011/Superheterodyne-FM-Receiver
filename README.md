@@ -10,4 +10,7 @@
 ## Antenna
 The antenna is assumed to be broadband 50 ohms.
 
-## Low Noise Amplifier
+## Preselector Band Pass Filter
+The BPF was designed with 50 ohm source and load terminations in mind. <br>
+It was a 2nd order BPF since this ...
+
